@@ -12,3 +12,6 @@ Place the `[startupfinder]` shortcode on any page to display a list of startups.
 Two options exist for the shortcode: a zipcode target and a range (in miles) for the search to be centered on
 
 `[startupfinder geo="94301" range="10"]`
+
+## Demo
+A demo is available [here](http://adgodev.com/wp/startup-finder/)
